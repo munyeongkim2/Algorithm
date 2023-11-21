@@ -1,7 +1,6 @@
 import sys
 
 ran= int(sys.stdin.readline())
-
 ans = []
 for i in range(ran):
     n = sys.stdin.readline().split()
