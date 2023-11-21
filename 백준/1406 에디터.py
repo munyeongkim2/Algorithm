@@ -51,5 +51,4 @@ for i in range(ran):
     elif inpu[0] == "P":
         left.append(inpu[1])
 
-
 print(''.join(left)+''.join(reversed(right)))
